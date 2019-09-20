@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DiscoveryTrails</string>
+
+    <string name="share">Share</string>
+    <string name="title_receive">Receive</string>
+    <string name="title_send">Send</string>
+    <string name="msg_no_deep_link">No deep link received.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Teachedf">Teachedf</string>
+</resources>

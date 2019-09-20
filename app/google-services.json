@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1098797665009",
+    "firebase_url": "https://discoverytrails-27562.firebaseio.com",
+    "project_id": "discoverytrails-27562",
+    "storage_bucket": "discoverytrails-27562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098797665009:android:1c26e08306039445",
+        "android_client_info": {
+          "package_name": "com.app.discoverytrails"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098797665009-bla0v2pp5tpqf2t5bv05gkcgvugfa425.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Kx-bAAw9SiJZGChiIiq_m7TcIB4wB_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098797665009-bla0v2pp5tpqf2t5bv05gkcgvugfa425.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

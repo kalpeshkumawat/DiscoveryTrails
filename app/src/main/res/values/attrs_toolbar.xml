@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="toolbar">
+        <attr name="toolbar_title" format="string" />
+        <attr name="toolbar_hasBack" format="boolean" />
+        <attr name="toolbar_hasRight" format="boolean" />
+
+    </declare-styleable>
+
+    <item name="toolbar" type="id" />
+</resources>
